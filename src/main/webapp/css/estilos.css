@@ -1,0 +1,23 @@
+body{
+    text-align:center !important;
+    font-family:"Comic Sans MS", cursive, sans-serif!important;
+    background-color:beige;
+}
+table{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto
+}
+h1{
+    font-size:70px;
+}
+th{
+    font-size:30px;
+}
+#tabla{
+    font-size: 15px;
+    color: darkblue;
+}
+.nova{
+    color:grey;
+}

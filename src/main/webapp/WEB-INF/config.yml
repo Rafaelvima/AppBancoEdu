@@ -1,0 +1,16 @@
+## YAML Template.
+---
+driverDB: com.mysql.jdbc.Driver
+#BBDD LOCAL
+urlDB: jdbc:mysql://localhost:3306/banco?useSSL=false
+userDB: root
+
+##passDB: nohay2sin3
+passDB: root
+
+##DATOS MAIL
+mailFrom: alumno1@iesquevedo.es
+smtpServer: smtp.gmail.com
+smtpPort: 587
+mailPass: alumnodam2
+maxMinutes: 30
